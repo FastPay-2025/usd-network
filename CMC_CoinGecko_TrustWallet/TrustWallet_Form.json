@@ -1,0 +1,7 @@
+{
+  "name": "USDNetwork",
+  "symbol": "USDTN",
+  "decimals": 18,
+  "contract": "0x331658C058e571d139536fa4EB34D1aeC7B6710C",
+  "type": "BEP20"
+}

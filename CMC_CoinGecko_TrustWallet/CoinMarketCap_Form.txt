@@ -1,0 +1,5 @@
+Token: USDNetwork (USDTN)
+Contract: 0x331658C058e571d139536fa4EB34D1aeC7B6710C
+Chain: Binance Smart Chain
+Decimals: 18
+Website: https://www.usd-network.com
