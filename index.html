@@ -2,24 +2,314 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>USDNetwork (USDTN)</title>
+  <title>USDNetwork (USDTN) - Whitepaper</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <img src="logo/usdtn-logo.png" alt="USDTN Logo" class="logo">
-    <h1>USDNetwork (USDTN)</h1>
-    <p>O token descentralizado lastreado em dólar com governança comunitária e presença no ecossistema Web3.</p>
-    <div class="buttons">
-      <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C" target="_blank">📊 Ver no BSCScan</a>
-      <a href="#" target="_blank">🔜 CoinGecko</a>
-      <a href="#" target="_blank">🔜 CoinMarketCap</a>
-      <a href="#" target="_blank">🔜 TrustWallet</a>
+  <nav class="navbar">
+    <div class="nav-container">
+      <img src="logo/usdtn-logo.png" alt="USDTN Logo" class="nav-logo">
+      <h1>USDNetwork (USDTN)</h1>
+      <div class="nav-links">
+        <a href="#abstract">Abstract</a>
+        <a href="#features">Features</a>
+        <a href="#architecture">Architecture</a>
+        <a href="#roadmap">Roadmap</a>
+        <a href="#tokenomics">Tokenomics</a>
+      </div>
     </div>
-    <footer>
-      <p>Contrato: 0x331658C058e571d139536fa4EB34D1aeC7B6710C<br>Rede: BNB Smart Chain (BEP20)</p>
+  </nav>
+
+  <main class="container">
+    <header class="hero">
+      <img src="logo/usdtn-logo.png" alt="USDTN Logo" class="hero-logo">
+      <h1>USDNetwork (USDTN)</h1>
+      <h2>Whitepaper</h2>
+      <p class="version">Version 2.0 - January 2025</p>
+      <div class="contract-info">
+        <p><strong>Contract:</strong> <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C" target="_blank" rel="noopener">0x331658C058e571d139536fa4EB34D1aeC7B6710C</a></p>
+      </div>
+    </header>
+
+    <section id="abstract" class="section">
+      <h2>Abstract</h2>
+      <p>USDNetwork (USDTN) is a next-generation, USD-pegged stablecoin designed to deliver financial privacy, accessibility, and multi-chain operability. Built to operate across major blockchain ecosystems such as Binance Smart Chain, Polygon, Arbitrum, Base, and Avalanche, USDTN provides fast, low-cost, and censorship-resistant stable value transfer without compromising usability. With a focus on seamless exchange integrations, compliance readiness, and user-first design, USDNetwork is crafted for both DeFi applications and real-world adoption.</p>
+      
+      <p>Unlike traditional stablecoins that rely on centralized infrastructure or expose users to unnecessary surveillance, USDTN is deployed with privacy-respecting smart contracts, scalable architecture, and verifiable asset backing. With future listings on top-tier exchanges and a DAO-driven governance model, USDNetwork is poised to become the most accessible and privacy-aware digital dollar in the crypto ecosystem.</p>
+    </section>
+
+    <section id="introduction" class="section">
+      <h2>1. USDNetwork Introduction</h2>
+      <h3>1.1 Background</h3>
+      <p>The stablecoin market has grown into a cornerstone of crypto adoption. However, it remains limited by chain-specific implementations, fragmented liquidity, and privacy concerns. USDNetwork aims to fill this gap by launching a unified, stable, multi-chain coin that emphasizes discretion, scale, and integration with the most used blockchain environments.</p>
+      
+      <h3>1.2 Vision</h3>
+      <p>USDNetwork is built on the idea that digital dollars should be stable, accessible, and optionally private. It is a currency for DeFi, global trade, and on-chain finance, operating seamlessly across top EVM chains with scalable, low-gas architecture.</p>
+    </section>
+
+    <section id="features" class="section">
+      <h2>2. USDNetwork Core Features</h2>
+      <div class="features-grid">
+        <div class="feature-card">
+          <h4>Symbol</h4>
+          <p>USDTN</p>
+        </div>
+        <div class="feature-card">
+          <h4>Peg</h4>
+          <p>1:1 with USD</p>
+        </div>
+        <div class="feature-card">
+          <h4>Token Type</h4>
+          <p>ERC-20 and chain-equivalent standards</p>
+        </div>
+        <div class="feature-card">
+          <h4>Chains</h4>
+          <p>BSC, Polygon, Arbitrum, Base, Avalanche</p>
+        </div>
+        <div class="feature-card">
+          <h4>Backed by</h4>
+          <p>On-chain reserves & fiat accounts</p>
+        </div>
+        <div class="feature-card">
+          <h4>Designed for</h4>
+          <p>Traders, DAOs, dApps, businesses</p>
+        </div>
+      </div>
+      
+      <p>USDTN is engineered to function as a universally accessible, highly interoperable stablecoin that meets the demands of both retail users and institutional finance. By operating across leading EVM-compatible chains, it ensures deep liquidity and seamless usability in diverse DeFi environments.</p>
+      
+      <p>The design of USDTN also emphasizes performance and low-cost operations, with deployments on chains known for speed and low gas fees. This makes it ideal for everyday transactions, yield farming, algorithmic strategies, cross-border settlements, and real-time payments.</p>
+    </section>
+
+    <section id="architecture" class="section">
+      <h2>3. USDTN Architecture</h2>
+      <h3>3.1 Multi-Chain Deployment</h3>
+      <p>USDTN is launched natively on multiple chains, avoiding bridges and maintaining asset integrity:</p>
+      
+      <div class="chains-grid">
+        <div class="chain-card">
+          <h4>BSC</h4>
+          <p>Low fees, large DeFi presence</p>
+        </div>
+        <div class="chain-card">
+          <h4>Polygon</h4>
+          <p>Scalability, mainstream accessibility</p>
+        </div>
+        <div class="chain-card">
+          <h4>Arbitrum</h4>
+          <p>L2 scalability and ecosystem growth</p>
+        </div>
+        <div class="chain-card">
+          <h4>Base</h4>
+          <p>Coinbase ecosystem integration</p>
+        </div>
+        <div class="chain-card">
+          <h4>Avalanche</h4>
+          <p>Subnet support and fast finality</p>
+        </div>
+      </div>
+      
+      <h3>3.2 Reserve Management</h3>
+      <p>Reserves are publicly auditable through proof-of-reserve mechanisms and periodic third-party attestations. On-chain backing includes major stablecoins and is diversified to mitigate custodial risk.</p>
+    </section>
+
+    <section id="use-cases" class="section">
+      <h2>4. USDTN Use Cases</h2>
+      <p>USDNetwork (USDTN) is a stablecoin designed to provide stability and security in a volatile digital asset ecosystem. Its primary use case revolves around offering a stable digital currency that can be used across various blockchain applications.</p>
+      
+      <div class="use-cases-grid">
+        <div class="use-case-card">
+          <h4>1. DeFi Trading & Yield Farming</h4>
+          <p>USDTN offers stable returns in DeFi platforms, mitigating the risks of volatile cryptocurrencies.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>2. Cross-chain Payments</h4>
+          <p>USDTN enables seamless, low-cost transfers across multiple blockchain networks.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>3. Merchant Integration</h4>
+          <p>Merchants can accept stable, reliable payments with USDTN, avoiding crypto volatility.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>4. DAO Treasury Management</h4>
+          <p>DAOs can securely manage their reserves with USDTN, protecting against market fluctuations.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>5. Remittance & Payroll Solutions</h4>
+          <p>USDTN offers low-fee, fast, and stable cross-border payments for remittances and payroll.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>6. Hedging & Risk Management</h4>
+          <p>USDTN serves as a stable asset for hedging against cryptocurrency market volatility.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>7. Lending & Borrowing</h4>
+          <p>USDTN provides a stable medium for lending and borrowing on decentralized platforms.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>8. NFTs and Digital Asset Settlements</h4>
+          <p>USDTN ensures stable and fair transactions in the growing NFT marketplace.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>9. Taxation & Accounting</h4>
+          <p>USDTN simplifies tax reporting and accounting by maintaining a consistent value.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>10. Stablecoin Arbitrage</h4>
+          <p>USDTN allows for stable and risk-free arbitrage opportunities across crypto exchanges.</p>
+        </div>
+        <div class="use-case-card">
+          <h4>11. Institutional Adoption</h4>
+          <p>USDTN offers institutions a stable digital asset for integrating blockchain technology into traditional finance.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="roadmap" class="section">
+      <h2>5. USDNetwork Roadmap</h2>
+      <div class="roadmap-grid">
+        <div class="roadmap-phase">
+          <h3>Phase 1</h3>
+          <h4>Q2 2025</h4>
+          <p class="phase-title">"Build the Core, Launch the Vision"</p>
+          <ul>
+            <li>Launch on BSC & Polygon, Arbitrum, Base, Avalanche</li>
+            <li>CoinMarketCap (CMC) Listing</li>
+            <li>Coingecko Listing</li>
+            <li>4 Exchange Listings</li>
+          </ul>
+        </div>
+        <div class="roadmap-phase">
+          <h3>Phase 2</h3>
+          <h4>Q3 2025</h4>
+          <p class="phase-title">"Expand Ecosystem & Utility"</p>
+          <ul>
+            <li>Launch Bridge for cross-chain swaps</li>
+            <li>Integrate with DeFi platforms</li>
+            <li>Deploy Payment Gateway API</li>
+            <li>Analytics Dashboard</li>
+          </ul>
+        </div>
+        <div class="roadmap-phase">
+          <h3>Phase 3</h3>
+          <h4>Q4 2025</h4>
+          <p class="phase-title">"From Traders to Real-World Use"</p>
+          <ul>
+            <li>Launch Mobile Wallet (iOS & Android)</li>
+            <li>Add 10+ Exchange Listings</li>
+            <li>eCommerce Platform Integration</li>
+            <li>Launch Rewards Program</li>
+          </ul>
+        </div>
+        <div class="roadmap-phase">
+          <h3>Phase 4</h3>
+          <h4>Q1 2026</h4>
+          <p class="phase-title">"Beyond Stable, Towards Essential"</p>
+          <ul>
+            <li>Debit Card Program (Spend USDTN globally)</li>
+            <li>Rollout P2P Payment App</li>
+            <li>Treasury & Governance Portal</li>
+            <li>Expand to 20+ Blockchains</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="tokenomics" class="section">
+      <h2>6. Tokenomics USDNetwork (USDTN)</h2>
+      <div class="tokenomics-header">
+        <h3>Total Supply: 100,000,000,000 USDTN</h3>
+        <p>USDNetwork (USDTN) is a fully-backed stablecoin with a transparent allocation aimed at fostering ecosystem growth and long-term stability.</p>
+      </div>
+      
+      <div class="tokenomics-grid">
+        <div class="tokenomics-card">
+          <h4>Liquidity</h4>
+          <p class="percentage">70%</p>
+          <p>Ensures smooth trading and price stability.</p>
+        </div>
+        <div class="tokenomics-card">
+          <h4>Team</h4>
+          <p class="percentage">5%</p>
+          <p>Reserved for core development and innovation.</p>
+        </div>
+        <div class="tokenomics-card">
+          <h4>Marketing</h4>
+          <p class="percentage">5%</p>
+          <p>Focused on global awareness and community building.</p>
+        </div>
+        <div class="tokenomics-card">
+          <h4>Reserves</h4>
+          <p class="percentage">5%</p>
+          <p>For emergencies, growth, and partnerships.</p>
+        </div>
+        <div class="tokenomics-card">
+          <h4>Development</h4>
+          <p class="percentage">5%</p>
+          <p>For upgrades, integrations, and tech expansion.</p>
+        </div>
+        <div class="tokenomics-card">
+          <h4>Staking Rewards</h4>
+          <p class="percentage">5%</p>
+          <p>Incentives for staking and network support.</p>
+        </div>
+        <div class="tokenomics-card">
+          <h4>Airdrop</h4>
+          <p class="percentage">5%</p>
+          <p>For early supporters and community engagement.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="governance" class="section">
+      <h2>7. Governance Overview</h2>
+      <p>USDNetwork (USDTN) will be governed through a Decentralized Autonomous Organization (DAO), which gives token holders voting rights on the following:</p>
+      
+      <div class="governance-grid">
+        <div class="governance-card">
+          <h4>Reserve Management Policies</h4>
+          <p>Token holders will vote on how the reserves backing USDTN are managed, ensuring long-term stability.</p>
+        </div>
+        <div class="governance-card">
+          <h4>Chain Expansions</h4>
+          <p>Governance will guide which chains USDTN should integrate with, expanding its reach across multiple ecosystems.</p>
+        </div>
+        <div class="governance-card">
+          <h4>Treasury Allocations</h4>
+          <p>The community will decide how funds in the USDTN treasury are spent to promote growth and development.</p>
+        </div>
+        <div class="governance-card">
+          <h4>Integration Incentives</h4>
+          <p>The DAO will determine the incentives for platforms and businesses to integrate USDTN.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="future" class="section">
+      <h2>8. USDNetwork Future Outlook</h2>
+      <p>USDNetwork (USDTN) is set to revolutionize the stablecoin space with its secure, scalable, and privacy-focused design. With multi-chain integration, decentralized governance, and a strong emphasis on privacy and compliance, USDNetwork is positioned for broad adoption across both retail and institutional users.</p>
+      
+      <p>Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of the digital economy, empowering users with stability, control, and seamless access to the global financial system.</p>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <img src="logo/usdtn-logo.png" alt="USDTN Logo" class="footer-logo">
+        <h3>USDNetwork</h3>
+        <p class="tagline">Secure. Stable. Private. Global.</p>
+        <div class="contract-info">
+          <p><strong>Contract:</strong> <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C" target="_blank" rel="noopener">0x331658C058e571d139536fa4EB34D1aeC7B6710C</a></p>
+          <p><strong>Network:</strong> BNB Smart Chain (BEP20)</p>
+        </div>
+        <div class="links">
+          <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C" target="_blank" rel="noopener">📊 View on BSCScan</a>
+          <a href="#" target="_blank" rel="noopener">🔜 CoinGecko</a>
+          <a href="#" target="_blank" rel="noopener">🔜 CoinMarketCap</a>
+          <a href="#" target="_blank" rel="noopener">🔜 TrustWallet</a>
+        </div>
+      </div>
     </footer>
-  </div>
+  </main>
 </body>
 </html>
