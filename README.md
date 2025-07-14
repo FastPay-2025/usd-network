@@ -216,6 +216,7 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   | **🟣 Polygon** | `0xbf862Dab8b00146C77e72bd5bf766732141bfb4d` | [Polygon Explorer](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) |
   | **🔷 Base** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Basescan](https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) |
   | **🔴 Tron** | `TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2` | [Tronscan](https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2) |
+  | **🟪 Solana** | `68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W` | [Solscan](https://solscan.io/token/68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W) |
   
 </div>
 
@@ -240,6 +241,7 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   | **🟣 Polygon Explorer** | [View Contract](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) | Polygon contract explorer |
   | **🔷 Basescan** | [View Contract](https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) | Base contract explorer |
   | **🔴 Tronscan** | [View Contract](https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2) | Tron contract explorer |
+  | **🟪 Solscan** | [View Contract](https://solscan.io/token/68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W) | Solana contract explorer |
   | **🦎 CoinGecko** | 🔜 Coming Soon | Price tracking and market data |
   | **📈 CoinMarketCap** | 🔜 Coming Soon | Market capitalization and statistics |
   | **🔐 TrustWallet** | 🔜 Coming Soon | Mobile wallet integration |
