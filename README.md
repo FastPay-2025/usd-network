@@ -15,7 +15,8 @@
   </p>
   
   <p align="center">
-    <strong>Contract:</strong> <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C">0x331658C058e571d139536fa4EB34D1aeC7B6710C</a>
+    <strong>BSC Contract:</strong> <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C">0x331658C058e571d139536fa4EB34D1aeC7B6710C</a><br>
+    <strong>Multi-Chain Available:</strong> Avalanche | Arbitrum | Polygon | Base | Tron
   </p>
 </div>
 
@@ -203,14 +204,27 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
 
 ## 📄 Contract Information
 
+<div align="center">
+  
+  ### 🌐 Multi-Chain Contract Addresses
+  
+  | Network | Contract Address | Explorer |
+  |:---:|:---:|:---:|
+  | **🟡 BSC** | `0x331658C058e571d139536fa4EB34D1aeC7B6710C` | [BSCScan](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C) |
+  | **🔺 Avalanche** | `0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76` | [Snowtrace](https://snowtrace.io/address/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76) |
+  | **🔵 Arbitrum** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Arbiscan](https://arbiscan.io/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) |
+  | **🟣 Polygon** | `0xbf862Dab8b00146C77e72bd5bf766732141bfb4d` | [Polygon Explorer](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) |
+  | **🔷 Base** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Basescan](https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) |
+  | **🔴 Tron** | `TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2` | [Tronscan](https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2) |
+  
+</div>
+
 ```solidity
 // USDNetwork (USDTN) - Multi-Chain Contract
-// Primary Network: Binance Smart Chain (BSC)
-// Contract: 0x331658C058e571d139536fa4EB34D1aeC7B6710C
-// Standard: BEP20 (ERC-20 compatible)
 // Symbol: USDTN
 // Decimals: 18
 // Peg: 1:1 USD
+// Standard: ERC-20 / BEP-20 / TRC-20 compatible
 ```
 
 ## 🔗 Important Links
@@ -219,7 +233,13 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   
   | Platform | Link | Description |
   |:---:|:---:|:---:|
-  | **📊 BSCScan** | [View Contract](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C) | Verify contract and transactions |
+  | **🌐 Website** | [usd-network.com](https://usd-network.com) | Official website |
+  | **📊 BSCScan** | [View Contract](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C) | BSC contract explorer |
+  | **🔺 Snowtrace** | [View Contract](https://snowtrace.io/address/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76) | Avalanche contract explorer |
+  | **🔵 Arbiscan** | [View Contract](https://arbiscan.io/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) | Arbitrum contract explorer |
+  | **🟣 Polygon Explorer** | [View Contract](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) | Polygon contract explorer |
+  | **🔷 Basescan** | [View Contract](https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) | Base contract explorer |
+  | **🔴 Tronscan** | [View Contract](https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2) | Tron contract explorer |
   | **🦎 CoinGecko** | 🔜 Coming Soon | Price tracking and market data |
   | **📈 CoinMarketCap** | 🔜 Coming Soon | Market capitalization and statistics |
   | **🔐 TrustWallet** | 🔜 Coming Soon | Mobile wallet integration |

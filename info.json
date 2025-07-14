@@ -1,8 +1,39 @@
 {
   "name": "USDNetwork",
   "symbol": "USDTN",
-  "type": "BEP20",
+  "type": "Multi-Chain",
   "decimals": 18,
-  "contract": "0x331658C058e571d139536fa4EB34D1aeC7B6710C",
+  "contracts": {
+    "bsc": {
+      "address": "0x331658C058e571d139536fa4EB34D1aeC7B6710C",
+      "type": "BEP20",
+      "explorer": "https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C"
+    },
+    "avalanche": {
+      "address": "0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76",
+      "type": "ERC20",
+      "explorer": "https://snowtrace.io/address/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76"
+    },
+    "arbitrum": {
+      "address": "0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76",
+      "type": "ERC20",
+      "explorer": "https://arbiscan.io/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76"
+    },
+    "polygon": {
+      "address": "0xbf862Dab8b00146C77e72bd5bf766732141bfb4d",
+      "type": "ERC20",
+      "explorer": "https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d"
+    },
+    "base": {
+      "address": "0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76",
+      "type": "ERC20",
+      "explorer": "https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76"
+    },
+    "tron": {
+      "address": "TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2",
+      "type": "TRC20",
+      "explorer": "https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2"
+    }
+  },
   "website": "https://www.usd-network.com"
 }
