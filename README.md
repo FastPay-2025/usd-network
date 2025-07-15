@@ -16,7 +16,7 @@
   
   <p align="center">
     <strong>BSC Contract:</strong> <a href="https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C">0x331658C058e571d139536fa4EB34D1aeC7B6710C</a><br>
-    <strong>Multi-Chain Available:</strong> Avalanche | Arbitrum | Polygon | Base | Tron
+    <strong>Multi-Chain Available:</strong> Avalanche | Arbitrum | Polygon | Base | Tron | Solana
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 📋 Abstract
 
-USDNetwork (USDTN) is a next-generation, USD-pegged stablecoin designed to deliver financial privacy, accessibility, and multi-chain operability. Built to operate across major blockchain ecosystems such as Binance Smart Chain, Polygon, Arbitrum, Base, and Avalanche, USDTN provides fast, low-cost, and censorship-resistant stable value transfer without compromising usability. With a focus on seamless exchange integrations, compliance readiness, and user-first design, USDNetwork is crafted for both DeFi applications and real-world adoption.
+USDNetwork (USDTN) is a next-generation, USD-pegged stablecoin designed to deliver financial privacy, accessibility, and multi-chain operability. Built to operate across major blockchain ecosystems such as Binance Smart Chain, Polygon, Arbitrum, Base, Avalanche, Tron, and Solana, USDTN provides fast, low-cost, and censorship-resistant stable value transfer without compromising usability. With a focus on seamless exchange integrations, compliance readiness, and user-first design, USDNetwork is crafted for both DeFi applications and real-world adoption.
 
 Unlike traditional stablecoins that rely on centralized infrastructure or expose users to unnecessary surveillance, USDTN is deployed with privacy-respecting smart contracts, scalable architecture, and verifiable asset backing. With future listings on top-tier exchanges and a DAO-driven governance model, USDNetwork is poised to become the most accessible and privacy-aware digital dollar in the crypto ecosystem.
 
@@ -47,7 +47,7 @@ USDNetwork is built on the idea that digital dollars should be stable, accessibl
   | **🔖 Symbol** | USDTN |
   | **💰 Peg** | 1:1 with USD |
   | **🔧 Token Type** | ERC-20 and chain-equivalent standards |
-  | **🌐 Chains** | BSC, Polygon, Arbitrum, Base, Avalanche |
+  | **🌐 Chains** | BSC, Polygon, Arbitrum, Base, Avalanche, Tron, Solana |
   | **🏦 Backed by** | On-chain reserves & fiat accounts |
   | **👥 Designed for** | Traders, DAOs, dApps, businesses |
   
@@ -72,6 +72,8 @@ USDTN is launched natively on multiple chains, avoiding bridges and maintaining 
   | **🔵 Arbitrum** | L2 scalability and ecosystem growth |
   | **🔷 Base** | Coinbase ecosystem integration |
   | **🔺 Avalanche** | Subnet support and fast finality |
+  | **🔴 Tron** | High throughput and low cost |
+  | **🟪 Solana** | Fast finality and low transaction costs |
   
 </div>
 
@@ -125,7 +127,7 @@ USDNetwork (USDTN) is a stablecoin designed to provide stability and security in
   ### 🚀 Phase 1 - Q2 2025
   **"Build the Core, Launch the Vision"**
   
-  - ✅ Launch on BSC & Polygon, Arbitrum, Base, Avalanche
+  - ✅ Launch on BSC & Polygon, Arbitrum, Base, Avalanche, Tron, Solana
   - 📊 CoinMarketCap (CMC) Listing
   - 🦎 Coingecko Listing
   - 📈 4 Exchange Listings
@@ -215,7 +217,7 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   | **🔵 Arbitrum** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Arbitrum Blockscout](https://arbitrum.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract) |
   | **🟣 Polygon** | `0xbf862Dab8b00146C77e72bd5bf766732141bfb4d` | [Polygon Explorer](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) |
   | **🔷 Base** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Base Blockscout](https://base.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract) |
-  | **🔴 Tron** | `TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2` | [Tronscan](https://tronscan.org/#/contract/THhvmqYh7QsZFo6KkCKq9SUc8S5oBCw99n/code) |
+  | **🔴 Tron** | `THhvmqYh7QsZFo6KkCKq9SUc8S5oBCw99n` | [Tronscan](https://tronscan.org/#/contract/THhvmqYh7QsZFo6KkCKq9SUc8S5oBCw99n/code) |
   | **🟪 Solana** | `68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W` | [Solscan](https://solscan.io/token/68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W) |
   
 </div>
@@ -225,7 +227,7 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
 // Symbol: USDTN
 // Decimals: 18
 // Peg: 1:1 USD
-// Standard: ERC-20 / BEP-20 / TRC-20 compatible
+// Standard: ERC-20 / BEP-20 / TRC-20 / SPL compatible
 ```
 
 ## 🔗 Important Links
