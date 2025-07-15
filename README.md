@@ -250,6 +250,157 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   
 </div>
 
+## ❓ FAQ (Frequently Asked Questions)
+
+<div align="center">
+  
+  ### 💬 **Common Questions about USDNetwork (USDTN)**
+  
+</div>
+
+<details>
+<summary><strong>🪙 What is USDNetwork (USDTN)?</strong></summary>
+<br>
+USDNetwork (USDTN) is a next-generation, USD-pegged stablecoin designed to deliver financial privacy, accessibility, and multi-chain operability. It operates across major blockchain ecosystems including BSC, Polygon, Arbitrum, Base, Avalanche, Tron, and Solana.
+</details>
+
+<details>
+<summary><strong>🔒 How is USDTN backed?</strong></summary>
+<br>
+USDTN is backed by on-chain reserves and fiat accounts. Reserves are publicly auditable through proof-of-reserve mechanisms and periodic third-party attestations. The backing includes major stablecoins and is diversified to mitigate custodial risk.
+</details>
+
+<details>
+<summary><strong>🌐 Which blockchains support USDTN?</strong></summary>
+<br>
+USDTN is natively deployed on:
+<ul>
+<li>🟡 <strong>BSC</strong> - Low fees, large DeFi presence</li>
+<li>🟣 <strong>Polygon</strong> - Scalability and mainstream accessibility</li>
+<li>🔵 <strong>Arbitrum</strong> - L2 scalability and ecosystem growth</li>
+<li>🔷 <strong>Base</strong> - Coinbase ecosystem integration</li>
+<li>🔺 <strong>Avalanche</strong> - Subnet support and fast finality</li>
+<li>🔴 <strong>Tron</strong> - High throughput and low cost</li>
+<li>🟪 <strong>Solana</strong> - Fast finality and low transaction costs</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>💰 What is the total supply of USDTN?</strong></summary>
+<br>
+The total supply is 100,000,000,000 USDTN tokens. The distribution includes 70% for liquidity, 5% for the team, 5% for marketing, 5% for reserves, 5% for development, 5% for staking rewards, and 5% for airdrops.
+</details>
+
+<details>
+<summary><strong>🏛️ How does USDTN governance work?</strong></summary>
+<br>
+USDTN will be governed through a Decentralized Autonomous Organization (DAO), giving token holders voting rights on reserve management policies, chain expansions, treasury allocations, and integration incentives.
+</details>
+
+<details>
+<summary><strong>🛡️ Is USDTN audited?</strong></summary>
+<br>
+Yes, USDTN smart contracts undergo regular security audits by third-party firms. All audit reports are publicly available, and the protocol maintains transparency through proof-of-reserve mechanisms.
+</details>
+
+<details>
+<summary><strong>🔄 How can I bridge USDTN between chains?</strong></summary>
+<br>
+USDTN is launched natively on each supported blockchain, avoiding the need for traditional bridges. This maintains asset integrity and reduces risks associated with cross-chain bridging.
+</details>
+
+<details>
+<summary><strong>📈 Where can I trade USDTN?</strong></summary>
+<br>
+USDTN is listed on multiple decentralized exchanges across supported chains. Our roadmap includes listings on major centralized exchanges including 4 exchanges in Q2 2025, with plans for 10+ additional listings in Q4 2025.
+</details>
+
+<details>
+<summary><strong>💳 Can I use USDTN for payments?</strong></summary>
+<br>
+Yes! USDTN is designed for real-world use cases including DeFi trading, cross-chain payments, merchant integration, remittances, and everyday transactions. A debit card program is planned for Q1 2026.
+</details>
+
+<details>
+<summary><strong>📞 How can I get support?</strong></summary>
+<br>
+For technical support, partnerships, or general inquiries, contact us at <strong>contact@usd-network.com</strong> or join our community on Discord and Telegram.
+</details>
+
+---
+
+## 👥 Meet Our Team
+
+<div align="center">
+  
+  ### 🏢 **USDNetwork Foundation LDA**
+  **📍 Based in London, United Kingdom**
+  
+  <p>Meet the experienced professionals behind USDNetwork, dedicated to building the future of decentralized finance</p>
+  
+</div>
+
+<div align="center">
+  
+  | Role | Expertise | Background |
+  |:---:|:---:|:---:|
+  | **🚀 CEO & Founder** | **Blockchain & Finance** | 10+ years in blockchain and finance, former Goldman Sachs |
+  | **💻 CTO** | **Smart Contracts** | Smart contracts specialist, former Ethereum Foundation |
+  | **🛠️ Head of Development** | **DeFi Architecture** | Senior software architect, DeFi specialist |
+  | **📊 Head of Marketing** | **Digital Strategy** | Digital marketing strategist, former Coinbase |
+  | **🔒 Security Lead** | **Audit & Security** | Cybersecurity expert, blockchain security specialist |
+  | **🌐 Community Manager** | **Community Building** | Community growth specialist, crypto native |
+  
+</div>
+
+### 🎯 **Our Mission**
+
+USDNetwork Foundation LDA is committed to creating a stable, secure, and accessible digital dollar for the global economy. Our team combines traditional finance expertise with cutting-edge blockchain technology to deliver innovative solutions for DeFi and real-world applications.
+
+### 🌟 **Our Values**
+
+<div align="center">
+  
+  | Value | Description |
+  |:---:|:---:|
+  | **🔒 Security** | Prioritizing user safety and fund protection |
+  | **🌍 Accessibility** | Making DeFi accessible to everyone |
+  | **🔄 Innovation** | Continuous improvement and technological advancement |
+  | **🤝 Transparency** | Open communication and auditable processes |
+  | **🌐 Decentralization** | Empowering users with financial sovereignty |
+  
+</div>
+
+---
+
+## 📞 Contact & Support
+
+<div align="center">
+  
+  ### 🏢 **USDNetwork Foundation LDA**
+  **📍 London, United Kingdom**
+  
+  | Contact Type | Information |
+  |:---:|:---:|
+  | **📧 General Support** | contact@usd-network.com |
+  | **🤝 Partnerships** | contact@usd-network.com |
+  | **💼 Business Inquiries** | contact@usd-network.com |
+  | **🔧 Technical Support** | contact@usd-network.com |
+  | **📺 Press & Media** | contact@usd-network.com |
+  
+  ### 🌐 **Community & Social Media**
+  
+  <p align="center">
+    <a href="https://usd-network.com/"><img src="https://img.shields.io/badge/🌐_Website-usd--network.com-0066cc?style=for-the-badge&logoColor=white" alt="Website"></a>
+    <a href="https://x.com/USDTNetwk"><img src="https://img.shields.io/badge/🐦_X-@USDTNetwk-000000?style=for-the-badge&logoColor=white" alt="X (Twitter)"></a>
+    <a href="https://t.me/USDTNFY_bot"><img src="https://img.shields.io/badge/🤖_Telegram-USDTNFY__bot-2CA5E0?style=for-the-badge&logoColor=white" alt="Telegram"></a>
+    <a href="https://discord.com/invite/2VuQH86U"><img src="https://img.shields.io/badge/💬_Discord-Join_Server-7289DA?style=for-the-badge&logoColor=white" alt="Discord"></a>
+  </p>
+  
+</div>
+
+---
+
 ## ⚠️ Important Notice
 
 <div align="center">
@@ -273,9 +424,14 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   # 🌐 USDNetwork
   ## **Secure. Stable. Private. Global.**
   
-  <sub>Built with 💚 by the USDNetwork Community</sub>
+  <sub>Built with 💚 by USDNetwork Foundation LDA</sub>
   
   <p align="center">
     <strong>Bridging Traditional Finance with DeFi</strong>
+  </p>
+  
+  <p align="center">
+    <strong>📍 London, United Kingdom</strong><br>
+    <strong>📧 contact@usd-network.com</strong>
   </p>
 </div>

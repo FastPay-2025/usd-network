@@ -40,5 +40,24 @@
       "explorer": "https://solscan.io/token/68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W"
     }
   },
-  "website": "https://www.usd-network.com"
+  "website": "https://www.usd-network.com",
+  "company": {
+    "name": "USDNetwork Foundation LDA",
+    "location": "London, United Kingdom",
+    "description": "Building the future of decentralized finance with stable, secure, and accessible digital currency solutions."
+  },
+  "contact": {
+    "email": "contact@usd-network.com",
+    "support": "contact@usd-network.com",
+    "partnerships": "contact@usd-network.com",
+    "business": "contact@usd-network.com",
+    "technical": "contact@usd-network.com",
+    "press": "contact@usd-network.com"
+  },
+  "social": {
+    "website": "https://usd-network.com",
+    "twitter": "https://x.com/USDTNetwk",
+    "telegram": "https://t.me/USDTNFY_bot",
+    "discord": "https://discord.com/invite/2VuQH86U"
+  }
 }
