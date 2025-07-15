@@ -324,7 +324,7 @@ Yes! USDTN is designed for real-world use cases including DeFi trading, cross-ch
 <details>
 <summary><strong>📞 How can I get support?</strong></summary>
 <br>
-For technical support, partnerships, or general inquiries, contact us at <strong>contact@usd-network.com</strong> or join our community on Discord and Telegram.
+For technical support, contact <strong>tech@usd-network.com</strong>. For partnerships, contact <strong>partners@usd-network.com</strong>. For general inquiries, contact <strong>support@usd-network.com</strong> or join our community on Discord and Telegram.
 </details>
 
 ---
@@ -382,11 +382,11 @@ USDNetwork Foundation LDA is committed to creating a stable, secure, and accessi
   
   | Contact Type | Information |
   |:---:|:---:|
-  | **📧 General Support** | contact@usd-network.com |
-  | **🤝 Partnerships** | contact@usd-network.com |
-  | **💼 Business Inquiries** | contact@usd-network.com |
-  | **🔧 Technical Support** | contact@usd-network.com |
-  | **📺 Press & Media** | contact@usd-network.com |
+  | **📧 General Support** | support@usd-network.com |
+  | **🤝 Partnerships** | partners@usd-network.com |
+  | **💼 Business Inquiries** | business@usd-network.com |
+  | **🔧 Technical Support** | tech@usd-network.com |
+  | **📺 Press & Media** | press@usd-network.com |
   
   ### 🌐 **Community & Social Media**
   
