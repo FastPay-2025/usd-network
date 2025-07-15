@@ -7,17 +7,17 @@
     "bsc": {
       "address": "0x331658C058e571d139536fa4EB34D1aeC7B6710C",
       "type": "BEP20",
-      "explorer": "https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C"
+      "explorer": "https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C#code"
     },
     "avalanche": {
       "address": "0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76",
       "type": "ERC20",
-      "explorer": "https://snowtrace.io/address/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76"
+      "explorer": "https://snowtrace.io/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76/contract/readContract?chainid=43114"
     },
     "arbitrum": {
       "address": "0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76",
       "type": "ERC20",
-      "explorer": "https://arbiscan.io/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76"
+      "explorer": "https://arbitrum.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract"
     },
     "polygon": {
       "address": "0xbf862Dab8b00146C77e72bd5bf766732141bfb4d",
@@ -27,7 +27,7 @@
     "base": {
       "address": "0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76",
       "type": "ERC20",
-      "explorer": "https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76"
+      "explorer": "https://base.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract"
     },
     "tron": {
       "address": "TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2",

@@ -210,11 +210,11 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   
   | Network | Contract Address | Explorer |
   |:---:|:---:|:---:|
-  | **🟡 BSC** | `0x331658C058e571d139536fa4EB34D1aeC7B6710C` | [BSCScan](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C) |
-  | **🔺 Avalanche** | `0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76` | [Snowtrace](https://snowtrace.io/address/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76) |
-  | **🔵 Arbitrum** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Arbiscan](https://arbiscan.io/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) |
+  | **🟡 BSC** | `0x331658C058e571d139536fa4EB34D1aeC7B6710C` | [BSCScan](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C#code) |
+  | **🔺 Avalanche** | `0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76` | [Snowtrace](https://snowtrace.io/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76/contract/readContract?chainid=43114) |
+  | **🔵 Arbitrum** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Arbitrum Blockscout](https://arbitrum.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract) |
   | **🟣 Polygon** | `0xbf862Dab8b00146C77e72bd5bf766732141bfb4d` | [Polygon Explorer](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) |
-  | **🔷 Base** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Basescan](https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) |
+  | **🔷 Base** | `0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76` | [Base Blockscout](https://base.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract) |
   | **🔴 Tron** | `TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2` | [Tronscan](https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2) |
   | **🟪 Solana** | `68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W` | [Solscan](https://solscan.io/token/68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W) |
   
@@ -235,11 +235,11 @@ Through its comprehensive roadmap, USDNetwork aims to become a cornerstone of th
   | Platform | Link | Description |
   |:---:|:---:|:---:|
   | **🌐 Website** | [usd-network.com](https://usd-network.com) | Official website |
-  | **📊 BSCScan** | [View Contract](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C) | BSC contract explorer |
-  | **🔺 Snowtrace** | [View Contract](https://snowtrace.io/address/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76) | Avalanche contract explorer |
-  | **🔵 Arbiscan** | [View Contract](https://arbiscan.io/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) | Arbitrum contract explorer |
+  | **📊 BSCScan** | [View Contract](https://bscscan.com/token/0x331658C058e571d139536fa4EB34D1aeC7B6710C#code) | BSC contract explorer |
+  | **🔺 Snowtrace** | [View Contract](https://snowtrace.io/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76/contract/readContract?chainid=43114) | Avalanche contract explorer |
+  | **🔵 Arbitrum Blockscout** | [View Contract](https://arbitrum.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract) | Arbitrum contract explorer |
   | **🟣 Polygon Explorer** | [View Contract](https://polygon.blockscout.com/address/0xbf862Dab8b00146C77e72bd5bf766732141bfb4d) | Polygon contract explorer |
-  | **🔷 Basescan** | [View Contract](https://basescan.org/token/0x4f460b1b24d4ecb186d3b7dfb1eb4a4373724e76) | Base contract explorer |
+  | **🔷 Base Blockscout** | [View Contract](https://base.blockscout.com/token/0x4F460b1b24d4ecB186d3B7DFB1eb4a4373724E76?tab=contract) | Base contract explorer |
   | **🔴 Tronscan** | [View Contract](https://tronscan.org/#/contract/TUvceXjNa1Z8vNw9yNuzLVDfaSatez3QF2) | Tron contract explorer |
   | **🟪 Solscan** | [View Contract](https://solscan.io/token/68dvX6eYhtMaJ2aspc5P1Uvz3kjZtzu5bJ5aVuNwJj9W) | Solana contract explorer |
   | **🦎 CoinGecko** | 🔜 Coming Soon | Price tracking and market data |
